@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 I am a student at Politeknik Negeri Malang, majoring in Business Information Systems. I have a strong interest in information technology and digital business, and I am always eager to learn and grow professionally.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khoirknz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@khoir.kn) 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khoirkanzura&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khoirkanzura&theme=nightowl&hide_border=false)<br/>
