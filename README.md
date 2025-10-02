@@ -53,6 +53,7 @@
 <div align="center">
 
 ### ⚡ **"Code is the language of innovation, and I'm here to learn its vocabulary."**
+**Man jaddah Wajadah✨**
 
 **📚 Always learning, always growing**  
 **💡 Turning ideas into digital solutions**
