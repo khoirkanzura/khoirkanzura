@@ -10,22 +10,6 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=khoirkanzura&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="Khoir's GitHub Stats" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khoirkanzura&theme=nightowl&hide_border=true" alt="Khoir's GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 <!-- Top Languages -->
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirkanzura&theme=nightowl&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss)
