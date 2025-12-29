@@ -10,12 +10,6 @@
 
 </div>
 
-<!-- Top Languages -->
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirkanzura&theme=nightowl&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss)
-
-</div>
-
 ## 📈 GitHub Activity Graph
 
 <div align="center">
