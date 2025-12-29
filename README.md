@@ -4,9 +4,9 @@
 
 👋 Hello! I'm **Khoir Karol Nurzuraidah**
 
-🎓 Student at **Politeknik Negeri Malang**  
-💼 Majoring in **Business Information Systems**  
-🚀 Passionate about **Technology & Digital Business**
+  Student at **Politeknik Negeri Malang**  
+  Majoring in **Business Information Systems**  
+  Passionate about **Technology & Digital Business**
 
 </div>
 
