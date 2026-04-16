@@ -5,8 +5,6 @@
 
 **Business Information Systems · Politeknik Negeri Malang**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khoirkanzura.khoirkanzura)
-
 </div>
 
 ---
@@ -18,23 +16,11 @@
 | | |
 |---|---|
 | 🎓 | Mahasiswi **Sistem Informasi Bisnis** — Politeknik Negeri Malang |
-| 🌱 | Currently learning **•	Data Analysis & Data Visualization, •	Business Intelligence, Functional ERP (Odoo Specialist Basic, Web Development** |
+| 🌱 | Currently learning **Data Analysis & Data Visualization, Business Intelligence, Functional ERP (Odoo Specialist Basic, Web Development** |
 | 💡 | Passionate about **Technology & Digital Business** |
 | 📍 | Malang, East Java, Indonesia |
 
 ---
-
-## 🛠️ Skills
-
-```text
-HTML & CSS          ████████░░  80%
-JavaScript          ██████░░░░  65%
-Python              █████░░░░░  55%
-Business Analysis   ████████░░  75%
-UI/UX Basics        ██████░░░░  60%
-Data Analytics      █████░░░░░  50%
-```
-
 ---
 
 ## 📊 GitHub Stats
