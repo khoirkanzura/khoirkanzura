@@ -55,6 +55,6 @@
 
 *Always learning · Turning ideas into digital solutions*
 
-**✨ Man Jaddah Wajadah ✨.**
+**✨ Man Jadda Wajada ✨.**
 
 </div>
