@@ -27,10 +27,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khoirkanzura&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirkanzura&layout=compact&theme=rose_pine&hide_border=true)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=khoirkanzura&theme=rose_pine&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khoirkanzura&theme=rogue&hide_border=true&area=true)
